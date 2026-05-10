@@ -1,0 +1,72 @@
+main:
+  - title: "LW2G: Learning Whether to Grow for Prompt-based Continual Learning"
+    authors: <strong>Qian Feng</strong>, Da-Wei Zhou, Hanbin Zhao, Chao Zhang, Jiahua Dong, Dengxin Dai, Hui Qian
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
+    code: https://github.com/RAIAN08/LW2G
+    image: ./assets/img/lw2g.svg
+
+  - title: "CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary"
+    authors: Jiahang Tu, <strong>Qian Feng</strong>, Jiahua Dong, Hanbin Zhao, Chao Zhang, Nicu Sebe, Hui Qian
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2501.15562
+    code: https://github.com/RAIAN08/CE-SDWV
+    image: ./assets/img/ce-sdwv.svg
+
+  - title: "CMCT-G: Cross-Modal Continual Unlearning with Modality and Task-Level Guidance"
+    authors: <strong>Qian Feng</strong>, Wenhu Zhang, Yiming Wu, Jingzhou Chen, Lina Wei, Jiahua Dong, Chao Zhang, Hanbin Zhao, Hui Qian
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
+    code: https://github.com/RAIAN08/CMCT-G
+    image: ./assets/img/cmct-g.svg
+
+  - title: "PECTP: Parameter-Efficient Cross-Task Prompts for Incremental Vision Transformer"
+    authors: <strong>Qian Feng</strong>, Hanbin Zhao, Chao Zhang, Jiahua Dong, Henghui Ding, Yu-Gang Jiang, Hui Qian
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2025.
+    code: https://github.com/RAIAN08/PECTP
+    image: ./assets/img/pectp.svg
+
+  - title: "FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning"
+    authors: <strong>Qian Feng</strong>, Jiahang Tu, Mintong Kang, Hanbin Zhao*, Chao Zhang, Hui Qian
+    conference_short: ICCV
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    code: https://github.com/RAIAN08/FG-OrIU
+    image: ./assets/img/fg-oriu.svg
+
+  - title: "Incremental Learning of Vision-Language Models via Task Subspace Projection and Dynamic LoRA"
+    authors: <strong>Qian Feng</strong> et al. (second author)
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2025.
+    image: ./assets/img/continual.svg
+
+  - title: "HERO: Hierarchical Expert Reuse or Growth for Multimodal Continual Instruction Tuning"
+    authors: <strong>Qian Feng</strong> et al.
+    conference_short: Work
+    conference: Working paper.
+    image: ./assets/img/continual.svg
+
+  - title: "RIFT-MLLM: Formalizing Spurious Forgetting in Continual Multimodal Instruction Tuning"
+    authors: <strong>Qian Feng</strong> et al.
+    conference_short: Work
+    conference: Working paper.
+    image: ./assets/img/unlearning.svg
+
+  - title: "Explainable Incremental Unlearning via Concept Bottleneck and Gradient Orthogonality"
+    authors: <strong>Qian Feng</strong> et al.
+    conference_short: TPAMI
+    conference: Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>.
+    image: ./assets/img/unlearning.svg
+
+  - title: "Towards Continual Vision-and-Language Navigation under Inter-Scene and Intra-Scene Dynamics"
+    authors: <strong>Qian Feng</strong> et al.
+    conference_short: Work
+    conference: Working paper.
+    image: ./assets/img/vln.svg
+
+  - title: "CMMR+: Continual Vision-and-Language Navigation via Hierarchical Memory Retrieval"
+    authors: Hui Qian, <strong>Qian Feng</strong>, et al.
+    conference_short: Work
+    conference: Working paper.
+    image: ./assets/img/vln.svg
