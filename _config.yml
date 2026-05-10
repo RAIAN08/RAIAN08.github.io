@@ -1,0 +1,40 @@
+# Basic Information
+title: Qian Feng
+position: CS Ph.D. @ZJU
+affiliation: Zhejiang University
+affiliation_link: https://www.zju.edu.cn/english/
+email: 12321051@zju.edu.cn
+
+# Search Engine Optimization (SEO)
+keywords: Qian Feng, Zhejiang University, continual learning, machine unlearning, trustworthy AI, vision-language navigation
+description: Qian Feng's academic homepage.
+canonical: https://RAIAN08.github.io/
+
+# Links
+google_scholar: https://scholar.google.com.hk/citations?user=wtuxDIMAAAAJ&hl=zh-CN&oi=sra
+github_link: https://github.com/RAIAN08
+# cv_link: ./assets/files/curriculum_vitae.pdf
+
+# Images
+avatar: ./assets/img/avatar.svg
+favicon: ./assets/img/favicon.svg
+favicon_dark: ./assets/img/favicon.svg
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif"
+
+remote_theme: yaoyao-liu/minimal-light
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
